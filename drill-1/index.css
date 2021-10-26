@@ -1,0 +1,26 @@
+body {
+    margin:0;
+    padding:0;
+}
+header {
+    height: 175px;
+    width: 1800px;
+    background-color: gray;
+    margin:0;
+}
+.side-divs {
+    width: 150px;
+    height: 1400px;
+    background-color: lightgray;
+    display: inline-block;
+    /* justify-content: space-between; */
+    margin:0;
+
+}
+
+.bottom-div {
+    background-color: black;
+    height: 175px;
+    width: 1500px;
+    display: inline-block;
+}
